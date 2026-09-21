@@ -1,6 +1,6 @@
 package ru.mirea.lab1;
 
-public class Task7 {
+public class task_5 {
     public static void main(String[] args) {
         int num = 5;
         int result = fact(num);
